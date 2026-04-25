@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <!-- ══ PHOTO BOUTIQUE / AVATAR: Remplacer par un vrai logo de boutique ══ -->
+  <rect width="80" height="80" rx="40" fill="#FDF3E3"/>
+  <circle cx="40" cy="30" r="14" fill="#E8D4B0"/>
+  <ellipse cx="40" cy="62" rx="22" ry="14" fill="#E8D4B0"/>
+  <text x="40" y="76" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="9" fill="#C8913A">avatar</text>
+</svg>
